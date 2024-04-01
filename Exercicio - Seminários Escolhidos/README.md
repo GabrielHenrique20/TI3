@@ -16,3 +16,7 @@ LINK --> https://sol.sbc.org.br/index.php/sbie/article/view/26702/26521
 
 Artigo 3: Desenvolvimento de jogos digitais como auxílio na resolução de questões da OBMEP (A3)
 LINK --> https://sol.sbc.org.br/index.php/sbie/article/view/26652/26471
+
+
+
+![Fa3OlPlXgAMdjxp](https://github.com/GabrielHenrique20/TI3/assets/103072636/4198073f-5b34-4217-8aee-17bc6831fd84)
